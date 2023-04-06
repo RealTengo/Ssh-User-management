@@ -41,7 +41,7 @@ USDT ERC20 Address :
 *** به هیچ وجه برای پنل از یوزر Root استفاده نکنین .
 
 ````
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/Ssh-User-management/master/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/RealTengo/Ssh-User-management/master/install.sh --ipv4)
 ````
 
 جهت آپدیت پنل نیز همان دستور بالا را وارد کرده ( یوزر و پسورد ادمین نیاز نیست - یوزر ها پاک نمیشوند ) 
